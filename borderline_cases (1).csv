@@ -1,0 +1,6 @@
+,loan_amnt,annual_income,dti,credit_score,employment_length,num_open_accounts,recent_missed_payments,purpose,prob,abs_diff
+342,8987,53434,21.82,692,1,12,0,home,0.49943286,0.0005671382
+362,10204,38777,18.8,682,3,19,1,debt_consolidation,0.52177113,0.021771133
+456,39756,93479,24.43,807,0,13,4,small_business,0.45685536,0.043144643
+176,3327,104791,19.78,680,3,14,0,home,0.5434316,0.04343158
+111,22518,91726,11.0,595,3,11,2,debt_consolidation,0.40457615,0.09542385
